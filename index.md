@@ -32,7 +32,7 @@ A few issues we encountered during this project included setting up the wrong so
 Link: [UML](https://lucid.app/lucidchart/invitations/accept/b04ab408-d75f-4699-8f06-31153197ff48)
 
 ### Resume
-[Resume](https://lh3.googleusercontent.com/fife/ABSRlIrlHAu8fnuDxgseTnTCA6ee4V8CJc_G3r6K1o6SHounjJV33J2M9mjfxxHt2SUZ-qjXq7nWlyrj4xm42orRL5tQLuCXXAN-DLnLjSlqlEnq1BwlVVoEjiBj0m30R8TVC3pQI9QVkdiGJJH8UtD9j8YgjmnBTVFwO-GWw-abuhZH_BrHMZxJpzGnwK9w0JBuzIMNo6zhzQn9HluOKMVyUnGSi-bUqvtDD2dr9DaLJ6CgY5f31gAtGTz8vTDUEEYd3Z2a6gd7OujAnBY_KoBhhlBh9bXysuZ32LiGzxWEQ_kWzAgK-ajQHZpaGyGcdcBkw9rFV5XtfDGyD9J44lHz__Qbvkl_QG00XLX-CV1yKLN6vdX3X6bUQgaESB5criecBGY63MQ604Btsh883InBJ4qu3T_QS-wQWvrw7DZOxFmYaDy5RiYvKqctykxUYd_CBgsnlcfq9tKvAHeDDoE26ad-WumnNawkshMN3vOBXAHwub0p0_KvnSqkOHuUApHPXnDmPHXjNfpDgfzrW1bV1R1ixkrZYY457rkoXGSa5ThCEYoghShUqR2X3lmeQrIz3Ko01HX40Zho4Gxh_TgUOq-vrz5S_s1SF2xx-lSM-Q8lmGqpfVi_HxKO32Bx1CUhnb1LQ0hSwpxkIbJd4297D5dB7lTNZJcVne-mMHwF8BxEwX8X690Ik0IBqQvL2s3uFDPeug_WCPsvtntKk0mYocTABr1tWXjv=w1366-h609-ft?authuser=0)
+[Resume](https://docs.google.com/drawings/d/19OFXL_m52Lr7qrxeNs0P8w9RGH9y_AvgTT9WJ8AJb8A/edit?usp=sharing)
 
 ### Contact Me
 1. Email: [lord.ian777@gmail.com]
