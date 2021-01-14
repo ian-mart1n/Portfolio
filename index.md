@@ -6,8 +6,33 @@ I am an eighteen year old Senior attending Kennett High School in North Conway. 
 Some of the many projects that I have created and/or worked on include 
 1. Virtual Air Hockey
 2. Kennett High School's Spirit Week Arcade
-3. Taijitu Symbol
+3. Minecraft Mod
 
+### Kennett High School's Spirit Week Arcade / Virtual Air Hockey
+This project was part of the Kennett High School Spirit Week Arcade website programmed on p5 using javaScript where the player would go one on one against an ai that is slightly delayed from where the puck's y position is while the game is playing. Myself and another peer created the game's bounaries and the point scoring system. Our contribution to the sync of the point system to the database was functional and succeeded. Incorporating the necessary logic and physics into the code my partner and I found a p5.play library which allowed us to use physics concepts like velocity into our code, in turn making it seem more and more like actual air hockey. This game kept score and increased velocity with every hit. It is a one player game in which the user faces off against an ai.
+
+### Results
+Link: [Virtual Air Hockey](https://editor.p5js.org/2161230/sketches/JBjxvgsqI)
+
+### Minecraft Mod
+
+### The “Background”
+Aim:
+That our contributions to this at least when added to the game could've altered the wide range of gameplay and add a few features to this project. We aimed for completion by the end of the first semester and that this product satisfies the necessary competencies.
+
+Research question(s):
+In order to demonstrate the achievement of our intent, this project will allow players to customize their boots with multiple different items, explore a few new aspects of this game, and give its users a different look in the game when they hop on a world, change and experiment with values in the game’s code using software such as forge, java development kit, and minecraft java itself, to run, test, check for bugs and even get user input from a select group of testers for our product. 
+
+### Implementation	
+A few issues we encountered during this project included setting up the wrong software for developing using Java. At first JDK 15 was installed instead of JDK 8 and couldn’t run especially after we changed the system’s properties to select that particular pathway. It ended up being incompatible with the Eclipse IDE we used before. The source we referred to was outdated (2015 - Forge 1.12.2). 
+	Originally, the plan was to make multiple changes such as adding a whole Emmett expansion where we would edit places such as villages and even a biome. However, most of the elapsed time spent on this entire project was setting it up. In the time window that we have to complete this project, we decided on scrapping the Emmatarium/Emmett Expansion and prioritizing our focus mainly on the boots.
+  Having all textures and necessary json files imported, the textures for the boots have been completed, however there are numerous errors perhaps in the code when attempting to launch the mod’s client. WIth the time we had we were able to accomplish a fair portion of the goal we aimed for. 
+
+### Project's UML/Layout
+Link: [UML](https://lucid.app/lucidchart/invitations/accept/b04ab408-d75f-4699-8f06-31153197ff48)
+
+### Resume
+[Resume](https://lh3.googleusercontent.com/fife/ABSRlIrlHAu8fnuDxgseTnTCA6ee4V8CJc_G3r6K1o6SHounjJV33J2M9mjfxxHt2SUZ-qjXq7nWlyrj4xm42orRL5tQLuCXXAN-DLnLjSlqlEnq1BwlVVoEjiBj0m30R8TVC3pQI9QVkdiGJJH8UtD9j8YgjmnBTVFwO-GWw-abuhZH_BrHMZxJpzGnwK9w0JBuzIMNo6zhzQn9HluOKMVyUnGSi-bUqvtDD2dr9DaLJ6CgY5f31gAtGTz8vTDUEEYd3Z2a6gd7OujAnBY_KoBhhlBh9bXysuZ32LiGzxWEQ_kWzAgK-ajQHZpaGyGcdcBkw9rFV5XtfDGyD9J44lHz__Qbvkl_QG00XLX-CV1yKLN6vdX3X6bUQgaESB5criecBGY63MQ604Btsh883InBJ4qu3T_QS-wQWvrw7DZOxFmYaDy5RiYvKqctykxUYd_CBgsnlcfq9tKvAHeDDoE26ad-WumnNawkshMN3vOBXAHwub0p0_KvnSqkOHuUApHPXnDmPHXjNfpDgfzrW1bV1R1ixkrZYY457rkoXGSa5ThCEYoghShUqR2X3lmeQrIz3Ko01HX40Zho4Gxh_TgUOq-vrz5S_s1SF2xx-lSM-Q8lmGqpfVi_HxKO32Bx1CUhnb1LQ0hSwpxkIbJd4297D5dB7lTNZJcVne-mMHwF8BxEwX8X690Ik0IBqQvL2s3uFDPeug_WCPsvtntKk0mYocTABr1tWXjv=w1366-h609-ft?authuser=0)
 
 ### Contact Me
 1. Email: [lord.ian777@gmail.com]
