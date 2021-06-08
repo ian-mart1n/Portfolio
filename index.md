@@ -1,6 +1,6 @@
 ## Ian Martin
 
-I am an eighteen year old Senior attending Kennett High School in North Conway. My field of interest is in Computer Science in which I am proficient having completed numerous projects within a group and independently. I have experience with coding languages 'C' and 'javaScript'. I also have a working understanding of HTML and CSS and am proficient in reactNative. I plan on seeking an internship at The Echo Group in Conway. 
+I am a nineteen year old Senior attending Kennett High School in North Conway. My field of interest is in Computer Science in which I am proficient having completed numerous projects within a group and independently. I have experience with coding languages 'C' and 'javaScript'. I also have a working understanding of HTML and CSS and am proficient in reactNative. I plan on seeking an internship at The Echo Group in Conway. 
 
 ### My Projects
 Some of the many projects that I have created and/or worked on include 
@@ -9,10 +9,10 @@ Some of the many projects that I have created and/or worked on include
 3. Minecraft Mod
 
 ### Kennett High School's Spirit Week Arcade / Virtual Air Hockey
-This project was part of the Kennett High School Spirit Week Arcade website programmed on p5 using javaScript where the player would go one on one against an ai that is slightly delayed from where the puck's y position is while the game is playing. Myself and another peer created the game's bounaries and the point scoring system. Our contribution to the sync of the point system to the database was functional and succeeded. Incorporating the necessary logic and physics into the code my partner and I found a p5.play library which allowed us to use physics concepts like velocity into our code, in turn making it seem more and more like actual air hockey. This game kept score and increased velocity with every hit. It is a one player game in which the user faces off against an ai.
+This project was part of the Kennett High School Spirit Week Arcade website programmed on p5 using javaScript where the player would go one on one against an ai that is slightly delayed from where the puck's y position is while the game is playing. Myself and another peer created the game's bounaries and the point scoring system. Our contribution to the sync of the point system to the database was functional and succeeded. Incorporating the necessary logic and physics into the code my partner and I found a p5.play library which allowed us to use physics concepts like velocity into our code, in turn making it seem more and more like actual air hockey. This game kept score and increased velocity with every hit. It is a one player game in which the user faces off against an ai opponent.
 
 ### Results
-Link: [Virtual Air Hockey](https://editor.p5js.org/2161230/sketches/JBjxvgsqI)
+[Virtual Air Hockey](https://editor.p5js.org/2161230/sketches/JBjxvgsqI)
 
 ### Minecraft Mod
 
